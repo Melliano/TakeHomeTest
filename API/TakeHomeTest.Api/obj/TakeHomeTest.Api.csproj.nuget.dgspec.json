@@ -1,0 +1,283 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Callum\\Desktop\\TakeHomeTest\\API\\TakeHomeTest.Api\\TakeHomeTest.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Callum\\Desktop\\TakeHomeTest\\API\\TakeHomeTest.Api.Domain\\TakeHomeTest.Api.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Callum\\Desktop\\TakeHomeTest\\API\\TakeHomeTest.Api.Domain\\TakeHomeTest.Api.Domain.csproj",
+        "projectName": "TakeHomeTest.Api.Domain",
+        "projectPath": "C:\\Users\\Callum\\Desktop\\TakeHomeTest\\API\\TakeHomeTest.Api.Domain\\TakeHomeTest.Api.Domain.csproj",
+        "packagesPath": "C:\\Users\\Callum\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Callum\\Desktop\\TakeHomeTest\\API\\TakeHomeTest.Api.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Callum\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "CSharpFunctionalExtensions": {
+              "target": "Package",
+              "version": "[2.39.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Callum\\Desktop\\TakeHomeTest\\API\\TakeHomeTest.Api.Models\\TakeHomeTest.Api.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Callum\\Desktop\\TakeHomeTest\\API\\TakeHomeTest.Api.Models\\TakeHomeTest.Api.Models.csproj",
+        "projectName": "TakeHomeTest.Api.Models",
+        "projectPath": "C:\\Users\\Callum\\Desktop\\TakeHomeTest\\API\\TakeHomeTest.Api.Models\\TakeHomeTest.Api.Models.csproj",
+        "packagesPath": "C:\\Users\\Callum\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Callum\\Desktop\\TakeHomeTest\\API\\TakeHomeTest.Api.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Callum\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Callum\\Desktop\\TakeHomeTest\\API\\TakeHomeTest.Api.Repository\\TakeHomeTest.Api.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Callum\\Desktop\\TakeHomeTest\\API\\TakeHomeTest.Api.Repository\\TakeHomeTest.Api.Repository.csproj",
+        "projectName": "TakeHomeTest.Api.Repository",
+        "projectPath": "C:\\Users\\Callum\\Desktop\\TakeHomeTest\\API\\TakeHomeTest.Api.Repository\\TakeHomeTest.Api.Repository.csproj",
+        "packagesPath": "C:\\Users\\Callum\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Callum\\Desktop\\TakeHomeTest\\API\\TakeHomeTest.Api.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Callum\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Callum\\Desktop\\TakeHomeTest\\API\\TakeHomeTest.Api.Models\\TakeHomeTest.Api.Models.csproj": {
+                "projectPath": "C:\\Users\\Callum\\Desktop\\TakeHomeTest\\API\\TakeHomeTest.Api.Models\\TakeHomeTest.Api.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "CSharpFunctionalExtensions": {
+              "target": "Package",
+              "version": "[2.39.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Callum\\Desktop\\TakeHomeTest\\API\\TakeHomeTest.Api\\TakeHomeTest.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Callum\\Desktop\\TakeHomeTest\\API\\TakeHomeTest.Api\\TakeHomeTest.Api.csproj",
+        "projectName": "TakeHomeTest.Api",
+        "projectPath": "C:\\Users\\Callum\\Desktop\\TakeHomeTest\\API\\TakeHomeTest.Api\\TakeHomeTest.Api.csproj",
+        "packagesPath": "C:\\Users\\Callum\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Callum\\Desktop\\TakeHomeTest\\API\\TakeHomeTest.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Callum\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Callum\\Desktop\\TakeHomeTest\\API\\TakeHomeTest.Api.Domain\\TakeHomeTest.Api.Domain.csproj": {
+                "projectPath": "C:\\Users\\Callum\\Desktop\\TakeHomeTest\\API\\TakeHomeTest.Api.Domain\\TakeHomeTest.Api.Domain.csproj"
+              },
+              "C:\\Users\\Callum\\Desktop\\TakeHomeTest\\API\\TakeHomeTest.Api.Models\\TakeHomeTest.Api.Models.csproj": {
+                "projectPath": "C:\\Users\\Callum\\Desktop\\TakeHomeTest\\API\\TakeHomeTest.Api.Models\\TakeHomeTest.Api.Models.csproj"
+              },
+              "C:\\Users\\Callum\\Desktop\\TakeHomeTest\\API\\TakeHomeTest.Api.Repository\\TakeHomeTest.Api.Repository.csproj": {
+                "projectPath": "C:\\Users\\Callum\\Desktop\\TakeHomeTest\\API\\TakeHomeTest.Api.Repository\\TakeHomeTest.Api.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

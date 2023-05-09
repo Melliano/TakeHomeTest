@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "i3+9bjtopfPTyCSJRH0TPW9ZUbJTl0kctqXBZeTYmLVPhS8gq57latT4sLejIxXSzSu9egJLp5lGYupPKhWdKA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Callum\\Desktop\\TakeHomeTest\\API\\TakeHomeTest.Api.Domain\\TakeHomeTest.Api.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Callum\\.nuget\\packages\\csharpfunctionalextensions\\2.39.0\\csharpfunctionalextensions.2.39.0.nupkg.sha512"
+  ],
+  "logs": []
+}

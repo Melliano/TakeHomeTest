@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>net7.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <RootNamespace>TakeHomeTest</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="7.0.5" />
+        <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\TakeHomeTest.Api.Domain\TakeHomeTest.Api.Domain.csproj" />
+      <ProjectReference Include="..\TakeHomeTest.Api.Models\TakeHomeTest.Api.Models.csproj" />
+      <ProjectReference Include="..\TakeHomeTest.Api.Repository\TakeHomeTest.Api.Repository.csproj" />
+    </ItemGroup>
+
+</Project>

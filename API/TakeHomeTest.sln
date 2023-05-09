@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TakeHomeTest.Api", "TakeHomeTest.Api\TakeHomeTest.Api.csproj", "{46C67503-9531-47FA-9850-0A76674D6F00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TakeHomeTest.Api.Models", "TakeHomeTest.Api.Models\TakeHomeTest.Api.Models.csproj", "{DE702CA2-FDEA-49AE-A8B8-2E4B01079AAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TakeHomeTest.Api.Domain", "TakeHomeTest.Api.Domain\TakeHomeTest.Api.Domain.csproj", "{EBE10126-47A4-4BCB-9F6C-9CB808BF05C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TakeHomeTest.Api.Repository", "TakeHomeTest.Api.Repository\TakeHomeTest.Api.Repository.csproj", "{792E6414-D34D-4CEC-9685-74CACE6EE386}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TakeHomeTest.Api.Tests", "TakeHomeTest.Api.Tests\TakeHomeTest.Api.Tests.csproj", "{DDB968BE-31C4-4F1E-8883-236A1012C04F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TakeHomeTest.Api.Domain.Tests", "TakeHomeTest.Api.Domain.Tests\TakeHomeTest.Api.Domain.Tests.csproj", "{1D5AB6F4-EA01-4BD2-8025-466948D54CC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46C67503-9531-47FA-9850-0A76674D6F00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46C67503-9531-47FA-9850-0A76674D6F00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46C67503-9531-47FA-9850-0A76674D6F00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46C67503-9531-47FA-9850-0A76674D6F00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE702CA2-FDEA-49AE-A8B8-2E4B01079AAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE702CA2-FDEA-49AE-A8B8-2E4B01079AAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE702CA2-FDEA-49AE-A8B8-2E4B01079AAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE702CA2-FDEA-49AE-A8B8-2E4B01079AAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBE10126-47A4-4BCB-9F6C-9CB808BF05C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBE10126-47A4-4BCB-9F6C-9CB808BF05C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBE10126-47A4-4BCB-9F6C-9CB808BF05C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBE10126-47A4-4BCB-9F6C-9CB808BF05C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{792E6414-D34D-4CEC-9685-74CACE6EE386}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{792E6414-D34D-4CEC-9685-74CACE6EE386}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{792E6414-D34D-4CEC-9685-74CACE6EE386}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{792E6414-D34D-4CEC-9685-74CACE6EE386}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDB968BE-31C4-4F1E-8883-236A1012C04F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDB968BE-31C4-4F1E-8883-236A1012C04F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDB968BE-31C4-4F1E-8883-236A1012C04F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDB968BE-31C4-4F1E-8883-236A1012C04F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D5AB6F4-EA01-4BD2-8025-466948D54CC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D5AB6F4-EA01-4BD2-8025-466948D54CC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D5AB6F4-EA01-4BD2-8025-466948D54CC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D5AB6F4-EA01-4BD2-8025-466948D54CC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

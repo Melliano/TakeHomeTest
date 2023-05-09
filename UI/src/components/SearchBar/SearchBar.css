@@ -1,0 +1,14 @@
+.search-bar-container {
+    background-color: white;
+    border-radius: 8px;
+    /* height: 5rem; */
+    padding: 12px 12px;
+    box-shadow: 0px 0px 8px #ddd;
+    display: flex;
+    height: 100%
+}
+
+.search-bar-input {
+    padding-right: 8px;
+    text-overflow: ellipsis;
+}
